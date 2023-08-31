@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu perfil do GitHub, onde irei compartilhar projetos, ideias e 
 
 - Atualmente trabalho na area de telecom
 - Técnica em informática e graduada em redes de computadores 
-- Estudando ciência de dados 📚
+- Estudando ciência de dados pelo bootcamp Santander 📚
 - Tenho interesse em front-end
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnielySilva&hide_title=true&show_icons=true&show=contribs,prs&cache_seconds=8C52FF&theme=midnight-purple)
