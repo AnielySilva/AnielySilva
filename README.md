@@ -1,10 +1,14 @@
-# Olá! Me chamo Aniely!
+# Olá!🖖🏼 Sou a Aniely Oliveira!
 
-Olá!🖖🏼 <br>
-Sou a Aniely Oliveira, apaixonada tecnologia, programação e segurança. <br>
+Sou apaixonada por tecnologia, programação e segurança. <br>
 Bem-vindo(a) ao meu perfil do GitHub, onde irei compartilhar projetos, ideias e aprendizados do mundo da programação.
 
+- Atualmente trabalho na area de telecom
+- Técnica em informática e graduada em redes de computadores 
+- Estudando ciência de dados 📚
+- Tenho interesse em front-end
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnielySilva&hide_title=true&show_icons=true&show=contribs,prs&cache_seconds=8C52FF&theme=midnight-purple)
 
 
 ## Conecte-se comigo:
