@@ -1,11 +1,11 @@
 # Olá!🖖🏼 Sou a Aniely Oliveira!
 
-Apaixonada por tecnologia, programação e segurança. <br>
+Apaixonada por programação, designer e segurança. <br>
 Bem-vindo(a) ao meu perfil do GitHub, onde irei compartilhar projetos, ideias e aprendizados do mundo da programação.
 
 - Atualmente trabalho na area de telecom
 - Técnica em informática e graduada em redes de computadores 
-- Estudando ciência de dados pelo bootcamp Santander 📚
+- Participei de bootcamps de ciência de dados com python e Cibersegurança oferecidos pelo Santander 📚
 - Tenho interesse em front-end
 
 
